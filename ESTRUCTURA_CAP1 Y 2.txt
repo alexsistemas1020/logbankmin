@@ -1,0 +1,25 @@
+INTRODUCCIÓN
+
+1  CAPITULO 1
+1.1 Minería en general
+1.2 Tipos de minería
+1.3 Pequeña minería en el Perú - Importancia
+1.4 NUestro proceso
+
+2 CAPITULO 2
+
+2.1 Justificación del proyecto
+2.2 Objetivos del proyecto
+	2.2.1 Objetivo general
+	2.2.2 Objetivos específicos
+2.3 Metodología del proyecto
+	2.3.1 PMBOK
+	2.3.2 EUP
+	2.3.3 EBM
+	2.3.4 BPMN
+	2.3.5 Elementos de la notación BPMN
+2.4 Alcance del Proyecto
+2.5 Organización del Proyecto
+2.6 Riesgos
+
+
